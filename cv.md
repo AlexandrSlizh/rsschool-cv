@@ -12,5 +12,3 @@ I study Python and JS, in the future I want to become a developer and a sought-a
 
 I have a certificate of knowledge of English B1 at school [Streamline](https://str.by/)
 
-#https://t.me/AlexandrSlizh
----
