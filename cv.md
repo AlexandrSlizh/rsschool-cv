@@ -1,12 +1,12 @@
-# Aleksandr Slizh
+ Aleksandr Slizh
 
-## Contacts
+ Contacts
 
 --[My Telegram](https://t.me/AlexandrSlizh)
 
 --My Gmail [sashaslizh87@gmail.com](sashaslizh87@gmail.com)
 
-## About me
+ About me
 
 I study Python and JS, in the future I want to become a developer and a sought-after specialist.
 
