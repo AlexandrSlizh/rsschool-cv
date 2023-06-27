@@ -2,9 +2,9 @@
 
  ## Contacts
 
---[My Telegram](https://t.me/AlexandrSlizh)
+- [My Telegram](https://t.me/AlexandrSlizh)
 
---My Gmail [sashaslizh87@gmail.com](sashaslizh87@gmail.com)
+- My Gmail [sashaslizh87@gmail.com](sashaslizh87@gmail.com)
 
   ## About me
 
